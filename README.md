@@ -246,3 +246,25 @@ Advanced UI
 - Accuracy & performance: Moderate (depends on mic & environment)  
 - Production readiness: Not yet (currently MVP)
 
+How to Run the Project:
+
+1. Clone the repository
+    git clone <your-repo-link>
+    cd speech_translation_project
+
+2. Create virtual environment
+   python -m venv venv
+   
+3. Activate virtual environment
+On Windows:
+    venv\Scripts\activate
+
+4. Install dependencies
+   python -m pip install -r requirements.txt
+
+5. Run the backend
+    python app.py
+
+6. Run the UI
+Open a second terminal and run:
+streamlit run demo_ui.py
