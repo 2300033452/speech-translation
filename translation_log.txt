@@ -1,0 +1,32 @@
+Source Language: en
+ASR: Thank you.
+Translated (te): ధన్యవాదాలు.
+--------------------------------------------------
+Source Language: tr
+ASR: Olduğunda bir miktar züktü.
+Translated (te): ఇది జరిగినప్పుడు కొంత గందరగోళంగా ఉంది.
+--------------------------------------------------
+Source Language: en
+ASR: Thank you.
+Translated (te): ధన్యవాదాలు.
+--------------------------------------------------
+Source Language: en
+ASR: This is the SMTM dash project.
+Translated (te): ఇది SMTM డాష్ ప్రాజెక్ట్.
+--------------------------------------------------
+Source Language: en
+ASR: Hello, this is my car and we rest.
+Translated (te): హలో, ఇది నా కారు మరియు మేము విశ్రాంతి తీసుకుంటాము.
+--------------------------------------------------
+Source Language: en
+ASR: Thank you.
+Translated (te): ధన్యవాదాలు.
+--------------------------------------------------
+Detected Language: en
+Recognized Text: the rest of the last time, don't take it.
+Translated Text (te): మిగిలిన చివరిసారి, తీసుకోవద్దు.
+--------------------------------------------------
+Detected Language: en
+Recognized Text: I'm gonna hack a thorn.
+Translated Text (te): నేను ఒక ముల్లును కోస్తాను.
+--------------------------------------------------

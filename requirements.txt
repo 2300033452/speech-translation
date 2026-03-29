@@ -1,0 +1,8 @@
+sounddevice
+numpy
+scipy
+noisereduce
+webrtcvad-wheels
+faster-whisper
+deep-translator
+edge-tts
